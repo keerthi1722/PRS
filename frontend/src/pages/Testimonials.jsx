@@ -74,7 +74,7 @@ export default function Testimonials() {
         <div className="bg-white p-6 rounded-xl shadow">
           <Quote className="text-[#D4AF37]" />
           <p className="text-gray-600 mt-3">
-            PKS Career Crafts helped me kickstart my digital marketing
+            PRS Career Crafts helped me kickstart my digital marketing
             career. The trainers are experts and the practical approach
             is amazing!
           </p>
